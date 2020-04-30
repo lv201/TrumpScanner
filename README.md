@@ -3,17 +3,14 @@ A text mining tool used to predict stock prices based on Trump's tweets
 
 1. Introduction
 
-2. Purpose
+Originally this project was created because I noticed a correlation between Trump's tweets about a company and the shifting stock price of that company afterwards. A day or two after markets reacted, I noticed the stock price would return to normal, so this would be a good opportunity to buy / sell and make a small profit as a day trader.
 
-3. How to use
+If Trump gets re-elected in Fall 2020, this tool will be more useful as there will be 4 more years of potential company tweets. If not, we can change the program to scan someone else's tweets that can influence the markets.
+
+2. How to use
 
 This project will be using UML Documentation and the SCRUM methodology, full information about the scope of the project is available here: https://github.com/lv201/TrumpScanner/wiki
 
-The Wiki will provide contributors with information about how the user interacts with the tool and its expected outcomes. 
+The Wiki includes use-case scenerios that outline the features I would like to implement, though this can be changed if better ideas come to light. I'll update the Wiki weekly with tasks that need to be completed in order of priority.
 
-There will be separate files in the repository for the 'Code of Conduct', 'Issue Template' and 'Contributing Template'
-
-Programming Language: ___
-Automated Testing Tool: ___
-
-Additional Tools: Cucumber.io, ...
+Please see CONTRIBUTING.MD for guidance regarding 'Code of Conduct', 'Issue Template' and 'How to Contribute'
