@@ -9,7 +9,7 @@ If Trump gets re-elected in Fall 2020, this tool will be more useful as there wi
 
 2. How to use
 
-This project will be using UML Documentation and the SCRUM methodology, full information about the scope of the project is available here: https://github.com/lv201/TrumpScanner/wiki
+This project will be using UML Documentation and the SCRUM methodology. Full UML documentation, Quality Plan, Acceptance Critera & Black Box Testing for the project is available here: https://github.com/lv201/TrumpScanner/wiki
 
 The Wiki includes use-case scenerios that outline the features I would like to implement, though this can be changed if better ideas come to light. I'll update the Wiki weekly with tasks that need to be completed in order of priority.
 
